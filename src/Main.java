@@ -1,6 +1,5 @@
-import Services.*;
+import services.*;
 import entities.Dog;
-import entities.Wolf;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
